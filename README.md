@@ -8,7 +8,7 @@ ViewURLは、Webアプリケーション上で様々な時空間データを取�
 - et | endtime
 - ct | currenttime
 - lat | 緯度
-- lng | 経度
+- lon | 経度
 - center | 中心点
 - north | 北
 - east | 東
