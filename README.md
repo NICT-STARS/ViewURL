@@ -28,4 +28,4 @@ ct=2021-08-13T00:00:00Z
 lat=36.4782629
 lng=138.1434002
 
-`https://hoge.jp/index.html?st=2021-08-11T15:00:00Z&et=2021-08-13T14:59:59Z&ct=2021-08-13T00:00:00Z&lat=36.4782629&lng=138.1434002`
+https://himawari.asia/himawari8-image.htm?sI=FULL_24h&sSI=B13&sClC=&sTA=false&sTAT=TY&sS=3&sNx=0&sNy=0&sL=-385&sT=-385&wW=1440&wH=821
